@@ -22,3 +22,8 @@ The application focuses on extracting insights from data through visualization a
 ## Getting Started
 
 1. Install dependencies:
+2. Run the script or notebook
+
+## Author
+
+Javier Axayácatl Melchor Hernández
